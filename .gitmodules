@@ -1,0 +1,6 @@
+[submodule "WuraTest/lib/openzeppelin-contracts"]
+	path = WuraTest/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "MetaSecure/lib/forge-std"]
+	path = MetaSecure/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

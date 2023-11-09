@@ -40,11 +40,11 @@ https://www.loom.com/share/304e34d323594fed869f7c47cda40365?sid=0dd8754d-db97-4f
 
 ## Frontend UI
 
+- ![08](./images/08.png)
+
 - ![06](./images/06.png)
 
 - ![07](./images/07.png)
-
-- ![08](./images/08.png)
 
 ## Authors
 
